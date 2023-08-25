@@ -35,3 +35,9 @@ Areas identified for potential enhancements include:
   
 ### Conclusion
 This project, with its foundation in deep learning, aspires to revolutionize fantasy NBA lineup decision-making. By offering deep insights and comprehensive analysis, it seeks to empower fantasy basketball aficionados in their pursuit of league dominance.
+
+
+
+
+## Project Format: Jupyter Notebook
+This entire project has been developed and documented within a Jupyter Notebook, adopting the .ipynb file format. Jupyter Notebook offers an interactive computing environment, making it ideal for developing and presenting data science projects like this one.
